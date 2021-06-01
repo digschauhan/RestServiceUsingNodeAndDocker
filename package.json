@@ -1,0 +1,15 @@
+{
+  "name": "SampleRestService",
+  "version": "1.0.0",
+  "description": "Sample rest service using Express module.",
+  "main": "RestService.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DJay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
